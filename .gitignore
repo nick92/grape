@@ -133,4 +133,4 @@ build/
 _build
 
 package-lock.*
-yarn-lock.*
+yarn.lock
