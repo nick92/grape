@@ -1,9 +1,11 @@
 # Grape - GTK Extension Library
 
 <div align="center">
-    <img src="./assets/grape.png" alt="grape" />
+    <img src="./assets/grape.png" width=
+    160px alt="grape" />
 </div>
 
+## What is it
 Grape is a GTK extension and widget library written in TypeScript using GJS, designed to enhance the development of GNOME applications.
 
 ## Features
