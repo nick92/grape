@@ -75,7 +75,5 @@ App.run();
 ### Contributing
 Contributions to Grape are highly encouraged! If you'd like to contribute, please fork the repository and submit a pull request with your changes. For more details, check out our contributing guidelines.
 
-### License
-Grape is released under the MIT License. For more information, see the LICENSE file in the repository.
 
 For detailed documentation and further examples, please refer to our Wiki. For support, please open an Issue.
