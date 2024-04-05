@@ -104,7 +104,6 @@ class Button extends Gtk.Button {
         return this._size;
     }
 
-
     get outlined(): boolean {
         return this._outlined;
     }
